@@ -2,7 +2,7 @@ root
 test
 oracle
 admin
-user
+administrator
 postgres
 guest
 nagios
